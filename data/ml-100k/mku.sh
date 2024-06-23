@@ -1,4 +1,3 @@
-#!/bin/sh
 
 trap `rm -f tmp.$$; exit 1` 1 2 15
 

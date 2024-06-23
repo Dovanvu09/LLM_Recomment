@@ -1,6 +1,4 @@
-#!/usr/local/bin/perl
 
-# get args
 if (@ARGV < 3) {
 	print STDERR "Usage: $0 base_name start stop max_test [ratings ...]\n";
 	exit 1;
