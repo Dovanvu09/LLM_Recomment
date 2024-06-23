@@ -1,0 +1,11 @@
+groq==0.9.0
+matplotlib==3.9.0
+numpy==2.0.0
+pandas==2.2.2
+python-dotenv==1.0.1
+qdrant_client==1.9.2
+scikit_learn==1.5.0
+scipy==1.13.1
+sentence_transformers==3.0.1
+streamlit==1.36.0
+wikipedia==1.4.0
